@@ -1,4 +1,4 @@
-## CarMod/scratch-vm
+## CarMod/CarMod-Vm
 
 Modified Scratch VM with a JIT compiler and more features.
 
