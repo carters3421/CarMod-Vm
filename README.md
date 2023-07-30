@@ -1,4 +1,4 @@
-## Snail-IDE/scratch-vm
+## CarMod/scratch-vm
 
 Modified Scratch VM with a JIT compiler and more features.
 
